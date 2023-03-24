@@ -71,7 +71,7 @@ section.imagem > p {
     text-shadow: 1px 1px 0px black;
 }
 section#img01 {
-    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.best-wallpaper.net%2FLadybug-yellow-flowers_wallpapers.html&psig=AOvVaw24QocvIu-pVboJcnIkCXEs&ust=1679785264802000&source=images&cd=vfe&ved=2ahUKEwj9kKrx1fX9AhWGN7kGHf58B0cQjRx6BAgAEAs);
+    background-image: url(/imagens/background001.jpg);
     background-position: right center;
     
 }
