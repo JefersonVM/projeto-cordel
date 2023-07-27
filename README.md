@@ -31,7 +31,7 @@
 
 ## 💻 Sobre o projeto
 
-<p id='about'>
+<p id='sobre'>
 📚 Projeto Cordel - Nesse desafio, transformei uma
 poesia em um site, incluindo efeitos de
 parallax nas imagens aplicadas ao fundo
@@ -52,7 +52,7 @@ foram aprendidas durante o curso.
 
 ## ⚙️ Functionalities
 
-<h1 id=functionalities></h1>
+<h1 id=funcionalidades></h1>
                          
 - [x] Choose your song <br/>
 - [x] Start by pressing the "play" button<br/>
@@ -60,14 +60,12 @@ foram aprendidas durante o curso.
 - [x] Change your song by pressing the "previous" or the "next" button<br/>
 - [x] See which artist and music is currently playing by looking at the bottom left corner<br/>
 
-## 🛠 Tecnologies
+## 🛠 Tecnologias
 
-<p id="tecnologies">
+<p id="tecnologias">
 For this project I used :	
 </p>
 
-<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>	
 <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
