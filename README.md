@@ -44,7 +44,7 @@ da página. Ínclui as fontes Passion One
 e Sriracha disponíveis no Google Fonts
 para que eu pudesse utilizar nesse projeto.
 Organizei o conteúdo para que duas
-estrofes (a segunda e a quinta) sejam
+estrofes (a segunda e a quinta) pudesse ser
 apresentadas dentro de uma área com
 uma imagem fixa no fundo. Adicionei o
 efeito parallax nessa imagem, onde o
