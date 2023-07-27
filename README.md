@@ -1,8 +1,8 @@
 # Projeto Cordel - Curso em Vídeo
 
 <p align="end">
-   <a href="https://Kauanedev/">
-    <img alt="Feito por Jeferson Vieira" src="https://img.shields.io/badge/feito-por%20JefersonVieira-000000">
+   <a href="https://github.com/JefersonVM">
+    <img alt="Feito por Jeferson Vieira" src="https://img.shields.io/badge/feito-por%20 Jeferson Vieira-000000">
    </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
- <a href="#funcionalidades">Funcionalidades</a> •
+ <a href="#efeitos-visuais">Efeitos Visuais</a> •
  <a href="#tecnologias">tecnologias</a>  
 </p>
 <hr/>
@@ -50,20 +50,20 @@ básico das propriedades de imagens que
 foram aprendidas durante o curso.
 </p>
 
-## ⚙️ Functionalities
+## ⚙️ Efeitos Visuais
 
-<h1 id=funcionalidades></h1>
+<h1 id='efeitos-visuais'></h1>
                          
-- [x] Choose your song <br/>
-- [x] Start by pressing the "play" button<br/>
-- [x] Pause by pressing the "pause" button<br/>
-- [x] Change your song by pressing the "previous" or the "next" button<br/>
-- [x] See which artist and music is currently playing by looking at the bottom left corner<br/>
+- [x] Efeitos de parallax nas imagens <br/>
+- [x] Utilização de fontes do Google fonts<br/>
+- [x] Organização do conteúdo<br/>
+- [x] Imagens fixas na rolagem<br/>
+- [x] Responsividade<br/>
 
 ## 🛠 Tecnologias
 
 <p id="tecnologias">
-For this project I used :	
+Para este projeto eu usei :	
 </p>
 
 <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
