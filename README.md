@@ -17,8 +17,6 @@
 
 </div>
 
-
-
 <h4 align="center"> 
 📚 Projeto Cordel 📖 
 </h4>
