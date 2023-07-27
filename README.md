@@ -12,10 +12,12 @@
 <img style="width: 300px; height: 400px;" src='./imagens/print_projeto02.png' alt='Print parte 2 do projeto'>
 
 <img style="width: 300px; height: 400px;" src='./imagens/print_projeto03.png' alt='Print parte 3 do projeto'>
-</div>
 
 <img style="width: 300px; height: 400px;" src='./imagens/print_projeto04.png' alt='Print parte 4 do projeto'>
+
 </div>
+
+
 
 <h4 align="center"> 
 📚 Projeto Cordel 📖 
