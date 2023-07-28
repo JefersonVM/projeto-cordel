@@ -28,7 +28,7 @@
 <p align="center">
  <a href="#sobre">Sobre</a> •
  <a href="#efeitos-visuais">Efeitos Visuais</a> •
- <a href="#tecnologias">tecnologias</a>  
+ <a href="#tecnologias">Tecnologias</a>  
 </p>
 <hr/>
 
